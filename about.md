@@ -12,8 +12,6 @@ permalink: /about/
 
 연구실 : 전력계통 및 스마트그리드 연구실
 
-E-Mail : dhchoi@cau.ac.kr
-
 전화번호 : 5101
 
 ### More Information

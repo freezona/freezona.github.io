@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about me/
 ---
 
 교수실 : 207동(봅스트홀) 633호
